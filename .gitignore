@@ -2,6 +2,7 @@
 risk_evaluation/
 catboost_info/
 datasets/
+datasets/
 notebooks/.ipynb_checkpoints/
 notebooks/application_after_eda.csv
 notebooks/application_test_after_eda.csv
